@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noam Elharar</h1>
 <h3 align="center">A passionate QA Engineer & Audio Plugins developer.</h3>
-<img align = "right" alt = "Coding" width = "400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWVjRJHosV8jNnGT9bl6zkQJiGC6Ryh9Zjw&s"
+<img align = "right" alt = "Coding" width = "400" scr="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWVjRJHosV8jNnGT9bl6zkQJiGC6Ryh9Zjw&s](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUweGJzbTZxNTR1dDBlbnVkdjJzenhvMzllYWJzZWR4OXJ3ZWVjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okZ8eqHMUPDdLEAIkf/giphy.gif)"
 - 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **noamelharar98@gmail.com**
