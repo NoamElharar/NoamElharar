@@ -2,16 +2,14 @@
 <h3 align="center">A passionate QA Engineer & Audio Plugins developer.</h3>
 
 <p align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg2cG1tMXo4ZmdjZG5wZWVzb3lnemY4eHlvZmxvZjRtZ2ZtcXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" alt="Banner Image](https://giphy.com/gifs/qgQUggAC3Pfv687qPC)" />
+  <img src="https://giphy.com/gifs/qgQUggAC3Pfv687qPC" alt="Banner Image" />
 </p>
 
-- 👀 I’m interested in buliding audio plugins in C++ and automation testing in Java!
+- 🌱 I’m currently learning **Java, Selenium, and enhancing my programming and automation testing skills**
 
-- 🌱 I’m currently learning Java, Selenium, and enhancing my programming and automation testing skills
+- 📫 How to reach me **noamelharar98@gmail.com**
 
-- 📫 How to reach me noamelharar98@gmail.com
-
-- ⚡ Fun fact: The term "vocoder," commonly used in music and audio production, comes from "voice coder." It was originally developed in the 1930s to encrypt voice signals for secure transmission during World War II.
+- ⚡ Fun fact: **The term "vocoder," commonly used in music and audio production, comes from "voice coder." It was originally developed in the 1930s to encrypt voice signals for secure transmission during World War II.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
