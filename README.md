@@ -2,7 +2,7 @@
 <h3 align="center">A passionate QA Engineer & Audio Plugins developer.</h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/qgQUggAC3Pfv687qPC" alt="Banner Image" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJkdnlxNTBqcTM3ZXYwZzZraHhwMHNhZjA0NGJzaHowZWIwNm9vaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner Image" />
 </p>
 
 - 🌱 I’m currently learning **Java, Selenium, and enhancing my programming and automation testing skills**
