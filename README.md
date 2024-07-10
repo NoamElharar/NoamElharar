@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **noamelharar98@gmail.com**
 
-- ⚡ Fun fact **The term "vocoder," commonly used in music and audio production, comes from "voice coder." It was originally developed in the 1930s to encrypt voice signals for secure transmission during World War II.**
+- ⚡ Fun fact: **The term "vocoder," commonly used in music and audio production, comes from "voice coder." It was originally developed in the 1930s to encrypt voice signals for secure transmission during World War II.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
